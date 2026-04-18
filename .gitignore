@@ -1,0 +1,45 @@
+# Data & outputs
+data/
+!data/.gitkeep
+checkpoints/
+*.pt
+*.pth
+report_engine/chroma_db/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Rasters
+*.tif
+*.tiff
+*.tif.aux.xml
+
+
+# Office temp files
+~$*
+
+
+# PDF results
+results/*.pdf
+

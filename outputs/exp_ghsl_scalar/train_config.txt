@@ -1,0 +1,20 @@
+ntl_dir: data/aligned/ntl_monthly_aligned
+pop: data/aligned/pop_aligned/pak_pop_2025_CN_100m_R2025A_v1_aligned.tif
+border_mask: data/aligned/border_mask.tif
+patch_size: 32
+stride: 16
+epochs: 10
+batch_size: 8
+lr: 0.001
+pretrained: False
+loss_type: combined
+huber_beta: 1.0
+rel_mae_weight: 0.1
+valid_threshold: 0.3
+built_up_as_channel: False
+output_dir: E:\Private\Lectures\AI\AI Application\paklight-pop\outputs\exp_ghsl_scalar
+seed: 42
+num_workers: 0
+pop_weight_power: 0.0
+total_pop_weight: 0.0
+built_up_path: data/aligned/built_up_2020_ghsl_100m_aligned.tif

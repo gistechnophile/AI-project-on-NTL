@@ -1,0 +1,43 @@
+name: paklight-pop
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.11
+  - pytorch::pytorch
+  - pytorch::torchvision
+  - conda-forge::rasterio
+  - conda-forge::xarray
+  - conda-forge::rioxarray
+  - conda-forge::geopandas
+  - conda-forge::pyproj
+  - conda-forge::shapely
+  - conda-forge::folium
+  - conda-forge::pydeck
+  - pip
+  - pip:
+    - streamlit
+    - streamlit-folium
+    - grad-cam
+    - torchmetrics
+    - pandas
+    - scipy
+    - scikit-learn
+    - scikit-image
+    - matplotlib
+    - seaborn
+    - plotly
+    - tqdm
+    - joblib
+    - langchain
+    - langchain-community
+    - chromadb
+    - sentence-transformers
+    - openai
+    - python-dotenv
+    - markdown
+    - fpdf2
+    - weasyprint
+    - python-box
+    - omegaconf

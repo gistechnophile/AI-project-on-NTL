@@ -1,0 +1,48 @@
+# Core ML / DL
+torch>=2.0.0
+torchvision>=0.15.0
+torchmetrics
+
+# Geospatial
+rasterio>=1.3.9
+xarray
+rioxarray
+pyproj
+shapely
+geopandas
+
+# Explainability
+grad-cam
+
+# App
+streamlit>=1.28
+folium
+streamlit-folium
+pydeck
+plotly
+
+# Data / Utils
+numpy
+pandas
+scipy
+scikit-learn
+scikit-image
+matplotlib
+seaborn
+tqdm
+joblib
+
+# RAG / Report
+langchain
+langchain-community
+chromadb
+sentence-transformers
+openai
+python-dotenv
+markdown
+weasyprint
+fpdf2
+
+# Reproducibility
+python-box
+omegaconf
