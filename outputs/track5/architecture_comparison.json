@@ -1,0 +1,34 @@
+{
+  "ResNet18_1DConv": {
+    "test_loss": 0.19587110575667227,
+    "test_mae": 23154.888671875,
+    "test_r": 0.7276268601417542,
+    "best_val_r": 0.9348033666610718,
+    "params": 11436545,
+    "ckpt_path": "outputs/track5\\best_model_ResNet18_1DConv.pt"
+  },
+  "ResNet34_1DConv": {
+    "test_loss": 0.9826953227920171,
+    "test_mae": 3434.19775390625,
+    "test_r": 0.7497910857200623,
+    "best_val_r": 0.7522882223129272,
+    "params": 21544705,
+    "ckpt_path": "outputs/track5\\best_model_ResNet34_1DConv.pt"
+  },
+  "ResNet18_Attention": {
+    "test_loss": 0.2674262816037974,
+    "test_mae": 3399.262451171875,
+    "test_r": 0.5838688611984253,
+    "best_val_r": 0.5884435772895813,
+    "params": 13915393,
+    "ckpt_path": "outputs/track5\\best_model_ResNet18_Attention.pt"
+  },
+  "ResNet34_Attention": {
+    "test_loss": 0.24713647208808442,
+    "test_mae": 3273.49609375,
+    "test_r": 0.19854028522968292,
+    "best_val_r": 0.2783532440662384,
+    "params": 24023553,
+    "ckpt_path": "outputs/track5\\best_model_ResNet34_Attention.pt"
+  }
+}

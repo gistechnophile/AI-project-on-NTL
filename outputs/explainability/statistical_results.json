@@ -1,0 +1,25 @@
+{
+  "bootstrap": {
+    "r": {
+      "point": 0.9453,
+      "ci_lower": 0.9315,
+      "ci_upper": 0.9572
+    },
+    "mae": {
+      "point": 1810.74,
+      "ci_lower": 1443.84,
+      "ci_upper": 2299.96
+    },
+    "rmse": {
+      "point": 6882.33,
+      "ci_lower": 3552.7,
+      "ci_upper": 10473.14
+    }
+  },
+  "morans_i": {
+    "i": 0.0778,
+    "expected": -0.0012,
+    "z_score": 6.44
+  },
+  "n_samples": 845
+}

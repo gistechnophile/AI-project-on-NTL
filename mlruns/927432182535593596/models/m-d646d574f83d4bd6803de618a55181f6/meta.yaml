@@ -1,0 +1,10 @@
+artifact_location: file:///E:/Private/Lectures/AI/AI Application/paklight-pop/mlruns/927432182535593596/models/m-d646d574f83d4bd6803de618a55181f6/artifacts
+creation_timestamp: 1776593981282
+experiment_id: '927432182535593596'
+last_updated_timestamp: 1776593991584
+model_id: m-d646d574f83d4bd6803de618a55181f6
+model_type: null
+name: model
+source_run_id: a99d937110554d65ae8fb67e76038312
+status: 2
+status_message: null

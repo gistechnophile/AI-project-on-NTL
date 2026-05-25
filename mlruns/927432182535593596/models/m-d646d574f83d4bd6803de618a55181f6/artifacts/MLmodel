@@ -1,0 +1,23 @@
+artifact_path: file:///E:/Private/Lectures/AI/AI Application/paklight-pop/mlruns/927432182535593596/models/m-d646d574f83d4bd6803de618a55181f6/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.13.13
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.6.0+cu124
+mlflow_version: 3.11.1
+model_id: m-d646d574f83d4bd6803de618a55181f6
+model_size_bytes: 2152
+model_uuid: m-d646d574f83d4bd6803de618a55181f6
+prompts: null
+run_id: a99d937110554d65ae8fb67e76038312
+utc_time_created: '2026-04-19 10:19:41.315230'

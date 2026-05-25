@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Private/Lectures/AI/AI Application/paklight-pop/mlruns/131699357543289726/7bf1144f4a9b4dcb9de6cbb03faa37ed/artifacts
+end_time: 1776708458310
+entry_point_name: ''
+experiment_id: '131699357543289726'
+lifecycle_stage: active
+run_id: 7bf1144f4a9b4dcb9de6cbb03faa37ed
+run_name: track5_ensemble_resnet34_1776707164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776707164449
+status: 3
+tags: []
+user_id: TOKHIRJON
